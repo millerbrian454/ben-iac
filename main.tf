@@ -16,6 +16,6 @@ provider "aws" {
 module "s3" {
     source = "./S3"
     #bucket name should be unique test
-    bucket_name = "bens3-50187655"       
+    bucket_name = "bens3-501876556"       
 }
-#hi matt
+
